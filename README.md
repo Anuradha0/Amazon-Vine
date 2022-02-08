@@ -12,21 +12,21 @@ To create the `products_table`, use the `select()` function to select the `produ
 
 The final `products_table` DataFrame should look like this:
 
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/3.png)
+![d1](https://github.com/Anuradha0/Amazon-Vine/blob/main/Images/D1.2.JPG)
 
 **The review_id_table DataFrame**
 To create the `review_id_table`, use the `select()` function to select the columns that are in the `review_id_table` in [pgAdmin](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository), and convert the review_date column to a date using the code snippet provided in the `Amazon_Reviews_ETL_starter_code.ipynb` file.
 
 The final `review_id_table` DataFrame should look like this:
 
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/4.png)
+![d1](https://github.com/Anuradha0/Amazon-Vine/blob/main/Images/D1.3.JPG)
 
 **The vine_table DataFrame**
 To create the `vine_table`, use the `select()` function to select only the columns that are in the `vine_table` in [pgAdmin](https://docs.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository).
 
 The final `vine_table` DataFrame should look like this:
 
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/5.png)
+![d1](https://github.com/Anuradha0/Amazon-Vine/blob/main/Images/D1.4.JPG)
 
 ### SUMMARY
 1. The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: **99.6% are Non-Vine**.  
