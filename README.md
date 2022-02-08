@@ -28,36 +28,6 @@ The final `vine_table` DataFrame should look like this:
 
 ![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/5.png)
 
-### DELIVERABLE RESULTS:
-
-**Helpful Reviews (All) with 5 Star:**  
-For all reviews and "helpful" reviews, **around half of the ratings are 5 Star**, which indicates that the Vine programs tend to give 5 Stars over any other rating.
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r5.png)
-
-**Percentage of Vine Reviews are 5-star:**  
-For all the Vine Reviews, we found almost the same, a little more lower ratings than 5 Star.
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r6.png)  
-
-
-**Percentage of Non-Vine Reviews are 5-star:** 
-In General, the non-Vine reviews is higher of 5 Stars on non-Vine reviews than 5 Star Vine.  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r7.png)
-
-**Vine Review vs. Non-Vine Review**:   
-For the entire Furniture product review file, the majority has a small Amazon Vine review:   
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r1.png)
-
-Now, applying the same analysis over smaller dataset, with "helpful" reviews, we faound an average percentage from the Vine program:  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r2.png)
-
-**5 Star Reviews Vine vs Non-Vine:** 
-For the entire review dataset, we found a small 5 Star reviews from Vine reviews, **around 0.3%**  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r3.png)
-
-By Filtering the "helpful" reviews only, we saw and found a light difference; **a lower 1%** of the 5 Star review from Vine.  
-![d1](https://github.com/emmanuelmartinezs/Amazon_Vine_Analysis/blob/main/Resources/Images/r4.png)
-
-
 ### SUMMARY
 1. The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: **99.6% are Non-Vine**.  
 2. And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants: **99.7% of all 5-star reviews are non-Vine**.
