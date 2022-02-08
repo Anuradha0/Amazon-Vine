@@ -28,8 +28,8 @@ The final `vine_table` DataFrame should look like this:
 ![d1](https://github.com/Anuradha0/Amazon-Vine/blob/main/Images/D1.4.JPG)
 
 ### SUMMARY
-1. The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: **99.6% are Non-Vine**.  
-2. And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants: **99.7% of all 5-star reviews are non-Vine**.
+1. The majority of reviews for Furniture product are almost nothing or lower results from Vine participants 
+2. And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants
 
 ### RECOMMENDATIONS:
 Below some recommendations to follow:
